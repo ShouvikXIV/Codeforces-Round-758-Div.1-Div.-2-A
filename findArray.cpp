@@ -25,7 +25,6 @@ int main()
 			{
 				cout<<f<<' ';
 				f+=1;
-
 			}
 			cout<<'\n';
 		}
