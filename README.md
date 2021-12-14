@@ -1,4 +1,4 @@
-# Find-Array
+A. Find Array
 Codeforces Round #758 (Div.1 + Div. 2)
 
 Given n, find any array a1,a2,…,an of integers such that all of the following conditions hold:
